@@ -20,7 +20,7 @@ dotnet run -- "C:\path\to\file.pdf"
 dotnet publish -c Release -r win-x64
 ```
 
-Published app is available [here](dont forget to insert the damn link)
+Published app is available for download [here]([dont forget to insert the damn link](https://github.com/elias4044/pdf_viewer/releases/download/v1.0.0/PdfViewer.exe))
 
 ## If restore fails (NU1100)
 
